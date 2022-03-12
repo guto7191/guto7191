@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou estudando **UFRB**
 
-- 👯 Eu procuro colaborar em **pro desenvolvimento de software**
+- 👯 Eu procuro colaborar em **desenvolvimento de software**
 
 - 📫Fale comigo em **luzguga2010@gmail.com**
 
