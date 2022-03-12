@@ -1,8 +1,6 @@
 ### Salve!!! Eu sou o Luiz Augusto 
 
-<p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" Salve!!! Eu sou o Luiz Augusto ">
-</p>
+
 
 - 📚 Cursando Engenharia da Computação na UFRB 
 - 🧠 Estudando C e Python 
