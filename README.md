@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guto7191&label=Profile%20views&color=0e75b6&style=flat" alt="guto7191" /> </p>
 
-- 🔭 Atualmente estou estudando **UFRB**
+- 🔭 Atualmente estou estudando na **UFRB**
 
 - 👯 Eu procuro colaborar em **desenvolvimento de software**
 
