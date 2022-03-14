@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/guto7191/guto7191/blob/main/guto7191/ezgif.com-gif-maker%20(1).gif" alt="Salve, Eu sou Augusto!!!">
+  <img src="https://github.com/guto7191/guto7191/blob/main/guto7191/ezgif.com-gif-maker%20(2).gif" alt="Salve, Eu sou Augusto!!!">
 </p>
 
 
